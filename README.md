@@ -1,7 +1,8 @@
 # Vue
 # Installing Vue projects - Config general
 Instalar Vs code 
-Plugins de VS Code// Con la finalidad de utilizar Visual Studio Code para el desarrollo de aplicaciones con Vue debemos agregar algunos plugins que permiten a este IDE entender la sintaxis del framework, aplicar correctamente la sangrías en el código y poder hacer depuración del desarrollo realizado. Para ello, es necesario agregar los plugins:
+Con la finalidad de utilizar Visual Studio Code para el desarrollo de aplicaciones con Vue debemos agregar algunos plugins que permiten a este IDE entender la sintaxis del 
+framework, aplicar correctamente la sangrías en el código y poder hacer depuración del desarrollo realizado. Para ello, es necesario agregar los plugins:
 * Vetur -ESLint -Auto Close Tag - Npm Intellisense -Debugger for Chrome 
 
 ## Install globally Vue
@@ -29,9 +30,13 @@ vue create -d plantilla
 
 > REVISAR EN [http://localhost:8081/]
 
->moverse a carpeta
+
+moverse a carpeta
 ```
 cd plantilla
+```
+
+```
 npm i @vue/cli-service
 npm i font-awesome
 npm install bootstrap
